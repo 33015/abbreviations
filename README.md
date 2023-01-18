@@ -5,7 +5,7 @@
 | STP | Shielded Twisted Pair |
 | UTP |Unshielded Twisted Pair |
 | FCS | Frame Check Sequence |
-| NIC | (Networc Interface Card |
+| NIC | Network Interface Card |
 | MTU  | Maximum Transmission Unit |
 | CSMA/CD | Carrier sense multiple access/collision detection |
 | MDI-X | Medium dependent interface crossover |
